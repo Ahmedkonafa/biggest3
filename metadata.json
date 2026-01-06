@@ -1,0 +1,9 @@
+{
+  "name": "Bgbest Cinema",
+  "short_name": "Bgbest",
+  "description": "منصة الأفلام والمسلسلات العربية رقم #1",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,9 @@
+
+User-agent: *
+Allow: /
+
+# استبعاد لوحة الإدارة من البحث لخصوصية البيانات
+Disallow: /admin
+Disallow: /login
+
+Sitemap: https://bgbest-platform.web.app/sitemap.xml
